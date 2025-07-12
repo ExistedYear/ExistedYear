@@ -1,4 +1,3 @@
-Just a random dude currently interested in stuff yet to be invented💀
 
 
 <!---
