@@ -62,7 +62,10 @@
 
 ### 🕹️ Recent Activity
  
-<img src="https://github.com/ExistedYear/ExistedYear/blob/output/github-contribution-grid-snake.svg" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ExistedYear/ExistedYear/blob/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/ExistedYear/ExistedYear/blob/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
