@@ -40,24 +40,8 @@
 
 <br/>
 
-<div align="center">
-
-### 📊 Player Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ExistedYear&show_icons=true&theme=radical&hide_border=true&bg_color=1a1b27&title_color=79ff97&icon_color=79ff97" alt="Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ExistedYear&layout=compact&theme=radical&hide_border=true&bg_color=1a1b27&title_color=79ff97" alt="Languages" />
-</p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ExistedYear)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<br/>
-
-<div align="center">
-
+<div align="center"
+ 
 ### 🕹️ Recent Activity
  
 <picture>
