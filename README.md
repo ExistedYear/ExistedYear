@@ -50,9 +50,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ExistedYear&layout=compact&theme=radical&hide_border=true&bg_color=1a1b27&title_color=79ff97" alt="Languages" />
 </p>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=ExistedYear&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
-</a>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ExistedYear)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
