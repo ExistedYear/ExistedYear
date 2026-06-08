@@ -1,5 +1,5 @@
 # 💫 About Me:
-💡  I like to explore new technologies <br>🎓  I’m currently studying Computer Science and Engineering at RV College Of Engineering, Bangalore.<br>🌱  I’m on track for learning Game Development<br>✍️  In my free time, I watch anime or play games<br>💬  Feel free to reach out to me for some interesting discussion :)<br>⚡  Fun Fact - I am really lazy
+💡  I like to explore new technologies <br>🎓  I’m currently studying Computer Science and Engineering at RV College Of Engineering, Bangalore.✍️  In my free time, I watch anime or play games<br>💬  Feel free to reach out to me for some interesting discussion :)<br>⚡  Fun Fact - I am really lazy
 
 
 ## 🌐 Socials:
